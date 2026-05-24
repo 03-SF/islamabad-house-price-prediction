@@ -1,0 +1,15 @@
+area_marla
+Bedrooms
+Bathrooms
+location_encoded
+type_encoded
+property_age
+Parking_num
+Servant Qtrs_num
+Store Rooms_num
+Kitchens_num
+Drawing Room_flag
+Dining Room_flag
+Study Room_flag
+Prayer Room_flag
+Lounge/Sitting_flag

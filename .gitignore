@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Data / models / notebooks
+*.csv
+*.pkl
+*.h5
+*.sqlite
+.ipynb_checkpoints/
+
+# VS Code / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Mac/Windows
+*.lnk
+
+# Optional: track large model files with Git LFS instead of committing
+# git lfs track "*.pkl"
