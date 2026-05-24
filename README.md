@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Islamabad Property Price Prediction - Complete ML Project
 ===========================================================
 
@@ -288,3 +289,6 @@ This is a complete, production-ready ML system. All code is:
 Questions? Check the code comments or modify as needed!
 
 Good luck! 🚀
+
+# islamabad-house-price-prediction
+>>>>>>> 3e5d606fa2d3d30aa2c256d5847148bfa51ba455
